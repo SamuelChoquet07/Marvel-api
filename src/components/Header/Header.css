@@ -1,0 +1,11 @@
+.header {
+  background-color: #e23636;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 20px 30px;
+  margin: 0;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  align-items: center;
+  font-family: "Roboto";
+}

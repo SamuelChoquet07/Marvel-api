@@ -1,0 +1,6 @@
+.list {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #e1dfd9;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}

@@ -1,0 +1,14 @@
+.searchInput {
+  font-family: "Roboto";
+  padding: 7px 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  outline: none;
+  resize: none;
+  background-color: #fff;
+  color: #333;
+}
+
+::placeholder {
+  color: #666;
+}

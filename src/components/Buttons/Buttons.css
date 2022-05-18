@@ -1,0 +1,32 @@
+.bAnterior {
+  color: #444;
+  background-color: transparent;
+  border: none;
+  font-size: 2.5rem;
+  margin: 30px 80px;
+}
+
+.bSiguiente {
+  background-color: transparent;
+  border: none;
+  font-size: 2.5rem;
+  margin: 30px 80px;
+  color: #444;
+}
+
+.bAnterior:hover {
+  color: #e23636;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.bSiguiente:hover {
+  color: #e23636;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.bBackground {
+  background-color: #e1dfd9;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
